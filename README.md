@@ -1,5 +1,4 @@
-# kidsstore2
-<!doctype html>
+# kidsstore
 <html lang="kk">
 <head>
   <meta charset="utf-8">
