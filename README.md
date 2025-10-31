@@ -1,4 +1,4 @@
-# kidsstore
+# kidsstore2
 <html lang="kk">
 <head>
   <meta charset="utf-8">
